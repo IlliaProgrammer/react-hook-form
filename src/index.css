@@ -1,13 +1,11 @@
 body {
+  font-family: 'Nunito', sans-serif;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+    padding: 0;
+    height: 90vh;
+  color: #384047;
+  background-image: url('https://i.pinimg.com/originals/5a/e2/37/5ae237e04d65fb9edede5d8abf1d2e69.jpg');
+    background-repeat: no-repeat; /* Prevents image repetition */
+    background-size: cover; /* Adjusts the image size to cover the element */
+    background-position: center; /* Centers the image */
 }
